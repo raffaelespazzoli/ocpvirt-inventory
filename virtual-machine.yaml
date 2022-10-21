@@ -2,4 +2,4 @@ all:
   vars:
     name: myocpvirt
     namespace: test-ocpvirt
-    ciao: ciao
+    ciao: hello
