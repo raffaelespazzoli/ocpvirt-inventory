@@ -1,4 +1,0 @@
-all:
-  vars:
-    NAME: myocpvirt
-    NAMESPACE: test-ocpvirt
