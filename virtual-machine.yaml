@@ -1,5 +1,3 @@
-all:
-  vars:
-    name: myocpvirt
-    namespace: test-ocpvirt
-    ciao: hello
+name: myocpvirt
+namespace: test-ocpvirt
+ciao: hello
